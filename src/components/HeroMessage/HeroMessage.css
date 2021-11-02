@@ -1,0 +1,13 @@
+.hero-message__clear {
+  color: #333;
+  background-color: #eee;
+  padding: .8rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+}
+.hero-message__clear:hover {
+  color: white;
+  background-color: #42545C;
+}
